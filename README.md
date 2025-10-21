@@ -1,1 +1,1 @@
-[![Aaron's GitHub stats](https://github-readme-stats-aaronmboyd.vercel.app/api?username=aaronmboyd&include_all_commits=true&show=prs_merged_percentage&theme=blue-green&rank_icon=default&custom_title=aaronmboyd)](https://github-readme-stats-aaronmboyd.vercel.app/api?username=aaronmboyd)
+[![Aaron's GitHub stats](https://github-readme-stats-two-zeta-46.vercel.app/api?username=aaronmboyd&include_all_commits=true&show=prs_merged_percentage&theme=blue-green&rank_icon=default&custom_title=aaronmboyd)](https://github-readme-stats-two-zeta-46.vercel.app/api?username=aaronmboyd)
